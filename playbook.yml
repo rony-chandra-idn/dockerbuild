@@ -26,3 +26,4 @@
            - 83:80
          recreate: yes
          interactive: yes
+         detach: yes
